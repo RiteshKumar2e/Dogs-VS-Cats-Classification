@@ -5,10 +5,11 @@ This project demonstrates the use of Convolutional Neural Networks (CNNs) to per
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
-- [Getting Started](#getting-started)
-- 
+- [Project Description](#project-description)
+- [Key Features](#key-features)
+- [Technologies Used](#technilogies-used)
+- [Prerequisites](#prerequisites)
+  
 ## Project Overview
 
 The primary goal of this project is to build a deep learning model that can classify images as either a dog or a cat. Image classification is one of the core tasks in the field of computer vision, and CNNs have proven to be extremely effective in solving such tasks by mimicking the visual processing techniques of the human brain.
